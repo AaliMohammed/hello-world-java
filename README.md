@@ -1,2 +1,2 @@
 # hello-world-java
-Hello World program Java
+Simple java Hello World test
